@@ -2,6 +2,7 @@ import dearpygui.dearpygui as dpg
 import json
 from transport import Client, Vehicle, TransportCompany, Van, Ship
 
+
 # Глобальные переменные для хранения данных
 company = TransportCompany("My transport company")
 
